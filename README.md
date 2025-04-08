@@ -3,7 +3,9 @@ This application is a simple python script that will take a directory path as an
 How to use 
 - Open a terminal and navigate to the directory where the script lives
 - Execute the script from the command line and add the directory path you'd like to create the virtual environment in. 
+
   python3 Venv_Setup.py <directorypath>
+  
 example:
 dangray@Dans-MBP Venv_Setup % python3 Venv_Setup.py /Users/dangray/Repos/Python/Scripts/TestProject
 
